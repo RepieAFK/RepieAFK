@@ -1,6 +1,6 @@
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
-<img align="right" width="400" alt="dragon" src="https://wallpaperaccess.com/gundam-phenex">
+<img align="right" width="400" alt="phenex" src="https://wallpaperaccess.com/full/8744966.jpg">
 <h2> // About me </h2>
 <ul>
 <li>👨‍💻 currently studying at <strong>software engineering</strong></li>
