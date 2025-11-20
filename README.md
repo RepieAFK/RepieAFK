@@ -5,7 +5,7 @@
 
 <!-- Suisei Bus GIF (stable link) -->
 <p align="center">
-  <img src="[https://media.tenor.com/eW_8yhPzYxYAAAAC/suisei-hoshimachi.gif](https://tenor.com/id/view/suisei-suisei-hololive-hololive-suisei-train-gif-22813283)" width="420" alt="Suisei Bus GIF">
+  <img src="https://tenor.com/id/view/suisei-suisei-hololive-hololive-suisei-train-gif-22813283" width="420" alt="Suisei Bus GIF">
 </p>
 
 <!-- Suisei Banner (stable CDN) -->
