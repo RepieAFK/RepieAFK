@@ -3,27 +3,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=6AA9FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Galaxy!+⭐;I'm+RYN+Aki+%7C+Suisei+Themed+Profile;Shining+Bright+Like+Hoshimachi+Suisei+💫" alt="Typing SVG">
 </p>
 
-<!-- Suisei Bus GIF -->
+<!-- Suisei Bus GIF (stable link) -->
 <p align="center">
-  <img src="https://media.tenor.com/3G0-y7GhqyQAAAAC/suisei-hoshimachi.gif" width="450" alt="Suisei Bus GIF">
+  <img src="https://media.tenor.com/eW_8yhPzYxYAAAAC/suisei-hoshimachi.gif" width="420" alt="Suisei Bus GIF">
 </p>
 
-<!-- Suisei Banner -->
+<!-- Suisei Banner (stable CDN) -->
 <p align="center">
-  <img src="https://i.ibb.co/5K33wtR/suisei-banner.jpg" width="800">
+  <img src="https://files.catbox.moe/eb5x2v.jpg" width="800" alt="Suisei Banner">
 </p>
 
 <div>
 
-<!-- Profile Image -->
-<img align="right" width="320" src="https://images6.alphacoders.com/133/1331941.png" alt="Suisei Img"/>
+<!-- Profile Image (stable CDN) -->
+<img align="right" width="320" src="https://files.catbox.moe/sg8q5p.png" alt="Suisei Image"/>
 
 <!-- About Me -->
 <h2 style="color:#6AA9FF"> // About Me </h2>
 <ul>
   <li>💠 Software Engineering Student</li>
-  <li>⭐ Inspired by <strong>Hoshimachi Suisei</strong> — hardworking & shining</li>
-  <li>💫 Passionate about design, coding, and building cool projects</li>
+  <li>⭐ Inspired by <strong>Hoshimachi Suisei</strong></li>
+  <li>💫 Passionate about coding, design, and building projects</li>
 </ul>
 
 <!-- Skills -->
