@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=6AA9FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Galaxy!+⭐;I'm+RYN+Aki+%7C+Suisei+Themed+Profile;Shining+Bright+Like+Hoshimachi+Suisei+💫" alt="Typing SVG">
 </p>
 
+<!-- Suisei Bus GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/3G0-y7GhqyQAAAAC/suisei-hoshimachi.gif" width="450" alt="Suisei Bus GIF">
+</p>
+
 <!-- Suisei Banner -->
 <p align="center">
   <img src="https://i.ibb.co/5K33wtR/suisei-banner.jpg" width="800">
@@ -17,8 +22,8 @@
 <h2 style="color:#6AA9FF"> // About Me </h2>
 <ul>
   <li>💠 Software Engineering Student</li>
-  <li>⭐ Inspired by <strong>Hoshimachi Suisei</strong> — shining & hardworking</li>
-  <li>💫 Passionate about design, coding, and building cool stuff</li>
+  <li>⭐ Inspired by <strong>Hoshimachi Suisei</strong> — hardworking & shining</li>
+  <li>💫 Passionate about design, coding, and building cool projects</li>
 </ul>
 
 <!-- Skills -->
