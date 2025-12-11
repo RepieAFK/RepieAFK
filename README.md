@@ -51,7 +51,6 @@
 <!-- Footer -->
 <p>
   <a href="https://github.com/RepieAFK"><strong>RepieAFK</strong></a><br>
-  <em>Last Edited on: 14/06/2025 — Watame Theme</em>
 </p>
 
 </div>
