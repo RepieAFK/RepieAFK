@@ -1,13 +1,3 @@
-<!-- Header Watame Style -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F3D16A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%A5%91;I'm+RYN+Aki;%F0%9F%90%91%E2%9C%A8">
-</p>
-
-<div>
-
-<!-- Watame Image -->
-<a href="https://tenor.com/id/view/watame-hololive-anime-stare-live-gif-16758872" target="_blank" rel="noopener">
-    <img alt="Watame staring GIF" src="https://tenor.com/view/watame-hololive-anime-stare-live-gif-16758872" />
 
 <!-- About Me -->
 <h2 style="color:#F3D16A;"> // About Me </h2>
